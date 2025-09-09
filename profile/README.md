@@ -1,8 +1,8 @@
 ## Hi there 👋 welcome to the GridSound community 🔥
 
-<img width="1159" height="347" alt="image" src="https://github.com/user-attachments/assets/ebe0bb85-c3c7-4555-a6c5-8a02f078a6bc" />
+[<img width="1159" height="347" alt="image" src="https://github.com/user-attachments/assets/ebe0bb85-c3c7-4555-a6c5-8a02f078a6bc" />](https://gridsound.com/)
 
-[gridsound.com](https://gridsound.com/) is the app where you can create and publish your own music compositions, and it's free!  
+[gridsound.com](https://gridsound.com/) is an app where you can create and publish your own music, the app is fully online you can edit your compositions from anywhere in the world, and it's free!  
 
 Quick links: The DAW's [changelog](https://github.com/gridsound/daw/wiki/changelog), the [help page](https://github.com/gridsound/daw/wiki/help).  
 
