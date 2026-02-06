@@ -13,6 +13,7 @@ Quick links:
 
 We also have others little apps:
 * 🎹 [piano.gridsound.com](https://piano.gridsound.com/) a little piano with real samples.
+* 🌊 [wave.gridsound.com](https://wave.gridsound.com/) a quick wavelet editor.
 * 🔊 [soundbox.gridsound.com](https://soundbox.gridsound.com/) an app where you can display and play many an entire library of samples.
 * 🎼 [gammes.gridsound.com](https://gammes.gridsound.com/) play the different gammes.
 * 📼 [opus.gridsound.com](https://opus.gridsound.com/) WAV convertion to Ogg/Opus.
