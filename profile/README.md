@@ -2,7 +2,7 @@
 
 [<img width="1159" height="347" alt="image" src="https://github.com/user-attachments/assets/ebe0bb85-c3c7-4555-a6c5-8a02f078a6bc" />](https://gridsound.com/)
 
-[gridsound.com](https://gridsound.com/) is an app where you can create and publish your own music, the app is fully online you can edit your compositions from anywhere in the world, and it's free!  
+[**gridsound.com**](https://gridsound.com/) is an app where you can create and publish your own music, the app is fully online you can edit your compositions from anywhere in the world, and it's free!  
 
 Quick links:
 * 🧾 [daw-changelog](https://github.com/gridsound/daw/wiki/changelog) the changelog related to the digital audio workstation (DAW).
@@ -12,13 +12,13 @@ Quick links:
 
 We also have others little apps:
 
-|                                                                                                                                                   |                                                                             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [<img width="120" height="120" alt="Piano"    src="https://gridsound.com/assets/screenshots/app-piano.png"/>](https://piano.gridsound.com/)       | 🎹 A little piano with audio samples recorded from a real piano.            |
-| [<img width="120" height="120" alt="Wave"     src="https://gridsound.com/assets/screenshots/app-wave.png"/>](https://wave.gridsound.com/)         | 🌊 A quick wavelet editor. Edit, test and download the wavelet as WAV file. |
-| [<img width="120" height="120" alt="SoundBox" src="https://gridsound.com/assets/screenshots/app-soundbox.png"/>](https://soundbox.gridsound.com/) | 🔊 An app where you can display and play many an entire library of samples. |
-| [<img width="120" height="120" alt="Gammes"   src="https://gridsound.com/assets/screenshots/app-gammes.png"/>](https://gammes.gridsound.com/)     | 🎼 For pedagogical purpose, listen the different gammes.                    |
-| [<img width="120" height="120" alt="Opus"     src="https://gridsound.com/assets/screenshots/app-opus.png"/>](https://opus.gridsound.com/)         | 📼 On this page you can converte a big WAV file into small Ogg/Opus.        |
+|                                                                                                                                                 |                                                             |                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [<img width="50" height="50" alt="Piano"    src="https://gridsound.com/assets/screenshots/app-piano.png"/>](https://piano.gridsound.com/)       | 🎹 [piano.gridsound.com](https://piano.gridsound.com)       | A little piano with audio samples recorded from a real piano.            |
+| [<img width="50" height="50" alt="Wave"     src="https://gridsound.com/assets/screenshots/app-wave.png"/>](https://wave.gridsound.com/)         | 🌊 [wave.gridsound.com](https://wave.gridsound.com)         | A quick wavelet editor. Edit, test and download the wavelet as WAV file. |
+| [<img width="50" height="50" alt="SoundBox" src="https://gridsound.com/assets/screenshots/app-soundbox.png"/>](https://soundbox.gridsound.com/) | 🔊 [soundbox.gridsound.com](https://soundbox.gridsound.com) | An app where you can display and play many an entire library of samples. |
+| [<img width="50" height="50" alt="Gammes"   src="https://gridsound.com/assets/screenshots/app-gammes.png"/>](https://gammes.gridsound.com/)     | 🎼 [gammes.gridsound.com](https://gammes.gridsound.com)     | For pedagogical purpose, listen the different gammes.                    |
+| [<img width="50" height="50" alt="Opus"     src="https://gridsound.com/assets/screenshots/app-opus.png"/>](https://opus.gridsound.com/)         | 📼 [opus.gridsound.com](https://opus.gridsound.com)         | On this page you can converte a big WAV file into small Ogg/Opus.        |
 
 
 Follow us on [Bluesky 🦋](https://bsky.app/profile/gridsound.com), [Facebook](https://www.facebook.com/gridsound) and [YouTube](https://youtube.com/@gridsound).  
