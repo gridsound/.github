@@ -13,11 +13,11 @@ Quick links:
 
 We also have others little apps:
 
-[<img width="140" height="140" alt="Piano"    src="https://gridsound.com/assets/screenshots/app-piano.png"/>](https://piano.gridsound.com/)
-[<img width="140" height="140" alt="Wave"     src="https://gridsound.com/assets/screenshots/app-wave.png"/>](https://wave.gridsound.com/)
-[<img width="140" height="140" alt="SoundBox" src="https://gridsound.com/assets/screenshots/app-soundbox.png"/>](https://soundbox.gridsound.com/)
-[<img width="140" height="140" alt="Gammes"   src="https://gridsound.com/assets/screenshots/app-gammes.png"/>](https://gammes.gridsound.com/)
-[<img width="140" height="140" alt="Opus"     src="https://gridsound.com/assets/screenshots/app-opus.png"/>](https://opus.gridsound.com/)
+[<img width="140" height="140" alt="Piano"    src="https://gridsound.com/assets/screenshots/app-piano.png"    align="left"/>](https://piano.gridsound.com/)
+[<img width="140" height="140" alt="Wave"     src="https://gridsound.com/assets/screenshots/app-wave.png"     align="left"/>](https://wave.gridsound.com/)
+[<img width="140" height="140" alt="SoundBox" src="https://gridsound.com/assets/screenshots/app-soundbox.png" align="left"/>](https://soundbox.gridsound.com/)
+[<img width="140" height="140" alt="Gammes"   src="https://gridsound.com/assets/screenshots/app-gammes.png"   align="left"/>](https://gammes.gridsound.com/)
+[<img width="140" height="140" alt="Opus"     src="https://gridsound.com/assets/screenshots/app-opus.png"                 />](https://opus.gridsound.com/)
 
 * 🎹 [piano.gridsound.com](https://piano.gridsound.com):       A little piano with audio samples recorded from a real piano.
 * 🌊 [wave.gridsound.com](https://wave.gridsound.com):         A quick wavelet editor. Edit, test and download the wavelet as WAV file.
